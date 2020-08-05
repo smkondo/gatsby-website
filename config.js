@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Shinya Kondo',
-    photo: '/profile2.jpg',
+    photo: '/photo.jpg',
     bio: '',
     contacts: {
       email: '',
