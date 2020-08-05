@@ -3,41 +3,41 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Shinya Kondo',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 1,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'PROJECTS',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'ABOUT ME',
+      path: '/pages/about '
     },
     {
-      label: 'Contact me',
+      label: 'C.V.',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Shinya Kondo',
+    photo: '/profile2.jpg',
+    bio: '',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
+      facebook: '',
+      telegram: '',
       twitter: '#',
       github: '#',
       rss: '',
       vkontakte: '',
       linkedin: '#',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
