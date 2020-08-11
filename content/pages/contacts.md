@@ -4,4 +4,4 @@ template: "page"
 socialImage: ""
 ---
  
- ![](/media/Resume.jpg)
+![](/media/Resume.jpg)
