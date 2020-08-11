@@ -1,7 +1,7 @@
 ---
 title: "ABOUT ME"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: ""
 ---
 
 Hi, I'm Shinya! I am an incoming PhD candidate at the University of Pennsylvania in the Mechanical Engineering Department. I received my B.S. in Mechanical Engineering from Columbia Univeristy. My research interests are numerical analysis of turbulent flows and computational fluid dynamics of moving boundary-layer flows. 
